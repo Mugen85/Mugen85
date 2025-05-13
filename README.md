@@ -47,6 +47,18 @@ Sto costruendo il mio percorso attraverso:
 
 ---
 
+Un focus particolare è dedicato alla sezione [`real-world`](https://github.com/Mugen85/CSharp-LINQPad-Training/tree/main/scripts/real-world) del mio progetto GitHub,  
+dove affronto **problemi realistici e pratici**, simulando mini-sfide tecniche simili a quelle che potrei incontrare in azienda.
+
+In questa sezione dimostro:
+- capacità di analisi e strutturazione di scenari reali
+- attenzione al naming, alla leggibilità e alla logica pulita
+- padronanza dell’intero flusso: input, validazione, condizioni, output strutturato
+
+📌 È la parte che consiglio di esplorare per valutare concretamente **le mie competenze tecniche applicate**.
+
+---
+
 ## 🔥 Cosa cerco
 
 - **Collaborazioni** con aziende serie che credano nel valore del codice pulito, della semplicità e della crescita tecnica costante.
@@ -114,6 +126,18 @@ I am building my path through:
   - Architectural Design Patterns (Repository, Unit of Work, etc.)
   - API Security (JWT Authentication)
   - Technical documentation best practices
+
+---
+
+A special focus is on the [`real-world`](https://github.com/Mugen85/CSharp-LINQPad-Training/tree/main/scripts/real-world) section of my GitHub project,  
+where I tackle **realistic and practical problems**, simulating technical challenges I might face in a professional environment.
+
+In this section, I demonstrate:
+- analysis and design skills applied to real scenarios
+- attention to naming, readability, and clean logic
+- full control of the flow: input, validation, conditions, and structured output
+
+📌 This is the section I recommend reviewing to truly assess my **applied technical skills**.
 
 ---
 
