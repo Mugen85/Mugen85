@@ -1,81 +1,90 @@
 # 👋 Ciao, sono Marco Morello
 *(English version below 🇬🇧)*
 
-🎯 **Obiettivo principale:**  
-Diventare un **architetto software** specializzato in **C#** e **tecnologie Microsoft**, costruendo soluzioni solide, moderne e scalabili.
+---
+
+## 🏭 Chi sono davvero
+
+Non sono uno sviluppatore che ha studiato informatica all'università e poi ha cercato un lavoro.  
+Sono un professionista con **oltre 15 anni di esperienza operativa in ambienti industriali complessi**, che ha scelto di costruire software perché conosce dall'interno i problemi che vale la pena risolvere.
+
+Ho lavorato come:
+- 🏭 **Conduttore di impianti** in un'azienda alimentare (5 anni) — gestione di linee di produzione, controllo qualità, manutenzione ordinaria
+- 🏠 **Agente immobiliare** (4 anni) — gestione clienti, trattative, documentazione tecnica
+- 💊 **Manutentore meccanico nel settore farmaceutico** (6 anni) — macchinari GMP, documentazione FDA, ambienti ad alta regolamentazione
+- 🧺 **Manutentore guasti e manutenzioni straordinarie in lavanderia industriale ospedaliera** (1,5 anni) — impianti che gestiscono la biancheria di tutti gli ospedali del nord Italia
+- ⚙️ **Montatore meccanico per aziende siderurgiche** (attuale) — installazione e manutenzione di macchinari da catena di produzione in ambienti ad alta complessità
+
+Questa esperienza mi ha insegnato cosa significa **un sistema che non può fermarsi**, **una manutenzione che deve essere tracciata**, **un errore che costa migliaia di euro l'ora**.
+
+Negli ultimi **4 anni** ho affiancato a tutto questo lo studio intensivo di **C# e .NET**, con l'obiettivo di costruire software che risolva problemi reali nei settori in cui ho lavorato.
 
 ---
 
-## 🚀 Chi sono
+## 🛠️ Progetti principali
 
-Sono uno sviluppatore con una forte passione per il **clean code**, l'**architettura del software** e il **miglioramento continuo**.  
-Ogni riga di codice che scrivo è progettata per essere **semplice**, **chiara** e **manutenibile**, seguendo sempre il principio che *"il codice migliore è quello che non ha bisogno di essere spiegato"*.
+### 🏍️ [MotoLogPro](https://github.com/Mugen85/MotoLogPro) — *Gestione officina moto* *(in sviluppo attivo)*
+Il progetto più ambizioso: un'applicazione **.NET MAUI + Web API** per la gestione completa di un'officina motociclistica. Clienti, interventi, storico veicoli, autenticazione **JWT**, database relazionale con **Entity Framework Core**.
 
-Il mio obiettivo è **semplificare la complessità**, strutturando ogni progetto in modo ordinato, leggibile e facile da evolvere.
-
-Sto costruendo il mio percorso attraverso:
-
-- Progetti personali concreti
-- Studio intensivo delle migliori pratiche architetturali
-- Applicazione quotidiana di principi di qualità del software
+Architettura client-server, separazione dei layer, documentazione API con **Swagger**.  
+Nasce dalla conoscenza diretta di come funziona davvero un'officina — non da un tutorial.  
+Dimostra la mia capacità di progettare sistemi gestionali reali con backend robusto e UI multipiattaforma.
 
 ---
 
-## 🛠️ Strumenti principali che utilizzo
+### 🔧 [MechTools](https://github.com/Mugen85/MechTools) — *App per meccanici da officina*
+Un'applicazione **multipiattaforma (Windows + Android)** sviluppata con **.NET MAUI**, nata da un bisogno reale: avere a portata di mano, mentre si montano macchinari, strumenti di calcolo e riferimento tecnico.
 
-- **Visual Studio** per lo sviluppo di applicazioni C# e ASP.NET Core
-- **LINQPad** per esercizi pratici, test di logica, e prototipi rapidi
-- **Entity Framework Core** per la gestione efficiente dei dati e delle relazioni tra entità
-- **Razor Pages** per la realizzazione di siti web leggeri e dinamici
-- **draw.io** per creare **flowchart** e **diagrammi logici** che aiutano a progettare e documentare l'architettura delle applicazioni
-- **Swagger (OpenAPI)** per la documentazione interattiva delle API
-- **GitHub** per la gestione del codice sorgente e la collaborazione
+La uso personalmente sul lavoro ogni giorno.  
+È il progetto che meglio rappresenta la mia filosofia: **software semplice, costruito da chi conosce il problema dall'interno**.
 
 ---
 
-## 📚 Cosa sto facendo
+### 💰 [WalletWise](https://github.com/Mugen85/wallet-wise-maui-app) — *Gestione finanze personali*
+Applicazione **multipiattaforma (Windows + Android)** sviluppata con **.NET MAUI**.  
+Interfaccia moderna, gestione di entrate/uscite, categorie, storico transazioni.
 
-- **Sviluppo di API REST** usando **ASP.NET Core** e architetture pulite (Clean Architecture, MVC)
-- **Progettazione dei dati** con **Entity Framework Core**, sfruttando migrazioni e relazioni avanzate
-- **Pianificazione visiva** dei flussi applicativi attraverso **diagrammi chiari e organizzati**
-- **Creazione di un sito personale/blog** basato su **ASP.NET Razor Pages**
-- Approfondimento continuo su:
-  - Programmazione a Oggetti (OOP) solida
-  - Design Pattern architetturali (Repository, Unit of Work, ecc.)
-  - Sicurezza delle API (Autenticazione JWT)
-  - Best practice di documentazione tecnica
+Progetto che ha consolidato le mie competenze su UX mobile, persistenza dei dati locale e architettura MVVM.
 
 ---
 
-Un focus particolare è dedicato alla sezione [`real-world`](https://github.com/Mugen85/CSharp-LINQPad-Training/tree/main/scripts/real-world) del mio progetto GitHub,  
-dove affronto **problemi realistici e pratici**, simulando mini-sfide tecniche simili a quelle che potrei incontrare in azienda.
+## 🧰 Stack tecnologico
 
-In questa sezione dimostro:
-- capacità di analisi e strutturazione di scenari reali
-- attenzione al naming, alla leggibilità e alla logica pulita
-- padronanza dell’intero flusso: input, validazione, condizioni, output strutturato
+- **Linguaggi:** C#
+- **Framework:** .NET 8, ASP.NET Core, .NET MAUI, Blazor WebAssembly, Razor Pages
+- **Dati:** Entity Framework Core, SQLite, SQL Server
+- **API:** REST, JWT Authentication, Swagger / OpenAPI
+- **Pattern:** Clean Architecture, Repository, Unit of Work, MVC, MVVM
+- **Strumenti:** Visual Studio, LINQPad, draw.io, GitHub
 
-📌 È la parte che consiglio di esplorare per valutare concretamente **le mie competenze tecniche applicate**.
+---
+
+## 🎯 Obiettivo
+
+Diventare un **software developer specializzato in applicazioni industriali e gestionali**, portando in ogni progetto la conoscenza diretta dei processi produttivi, della manutenzione e dei vincoli operativi reali.
+
+Il mio valore aggiunto non è solo il codice: è **capire il dominio** prima ancora di aprire l'IDE.
 
 ---
 
 ## 🔥 Cosa cerco
 
-- **Collaborazioni** con aziende serie che credano nel valore del codice pulito, della semplicità e della crescita tecnica costante.
-- Opportunità per **crescere professionalmente**, lavorando su progetti reali che richiedano visione architetturale e attenzione alla qualità.
-- Ambienti che valorizzino uno sviluppo **ordinato**, **responsabile** e **orientato al lungo termine**.
+- Opportunità in aziende che sviluppano **software per il settore manifatturiero, industriale o gestionale**
+- Ambienti che valorizzino **clean code**, architettura solida e crescita tecnica continua
+- Team in cui la **competenza di dominio** sia considerata un asset, non solo il titolo di studio
 
 ---
 
 ## 📩 Contattami
 
-- 📧 Email: **[doppiam1@gmail.com](mailto:doppiam1@gmail.com)**
+- 📧 **[doppiam1@gmail.com](mailto:doppiam1@gmail.com)**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marco-morello-b43b2a108)
 - 🌐 [Sito personale](https://www.ilviaggiodelprogrammatore.com/)
 
 ---
 
-> 🛠️ *"Ogni grande architetto ha iniziato posando il primo mattone. Oggi sto costruendo le fondamenta della mia carriera, un passo alla volta, con semplicità e chiarezza."*
+> *"Ho passato 15 anni a capire come si rompe un macchinario, perché si ferma una linea, come si documenta un intervento.  
+> Ora scrivo il software che avrei voluto avere quando ero dall'altra parte."*
 
 ---
 
@@ -83,78 +92,85 @@ In questa sezione dimostro:
 
 # 👋 Hi, I'm Marco Morello
 
-🎯 **Main Goal:**  
-Become a **Software Architect** specialized in **C#** and **Microsoft technologies**, building solid, modern, and scalable solutions.
+---
+
+## 🏭 Who I really am
+
+I'm not a developer who studied computer science and then looked for a job.  
+I'm a professional with **over 15 years of hands-on experience in complex industrial environments**, who chose to build software because I know from the inside which problems are worth solving.
+
+My background includes:
+- 🏭 **Production line operator** in a food manufacturing company (5 years)
+- 🏠 **Real estate agent** (4 years)
+- 💊 **Mechanical maintenance technician in the pharmaceutical sector** (6 years) — GMP machinery, FDA documentation, highly regulated environments
+- 🧺 **Breakdown maintenance and extraordinary maintenance technician in an industrial hospital laundry** (1.5 years) — serving all hospitals across northern Italy
+- ⚙️ **Mechanical assembler for steelworks companies** (current) — installation and maintenance of production line machinery in high-complexity environments
+
+This experience taught me what it really means when **a system can't stop**, **maintenance must be traceable**, or **a single error costs thousands of euros per hour**.
+
+Over the past **4 years**, I've combined all of this with intensive study of **C# and .NET**, with the goal of building software that solves real problems in the industries I've worked in.
 
 ---
 
-## 🚀 About me
+## 🛠️ Main Projects
 
-I am a developer passionate about **clean code**, **software architecture**, and **continuous improvement**.  
-Every line of code I write is designed to be **simple**, **clear**, and **maintainable**, following the principle that *"the best code is the one that doesn’t need explanations"*.
+### 🏍️ [MotoLogPro](https://github.com/Mugen85/MotoLogPro) — *Motorcycle workshop management* *(actively in development)*
+My most ambitious project: a **.NET MAUI + Web API** application for complete motorcycle workshop management. Customers, service orders, vehicle history, **JWT authentication**, relational database with **Entity Framework Core**.
 
-My mission is to **simplify complexity**, structuring every project in an organized, readable, and evolvable way.
-
-I am building my path through:
-
-- Real-world personal projects
-- Intensive study of architectural best practices
-- Daily application of software quality principles
+Client-server architecture, layer separation, API documentation with **Swagger**.  
+Built from real knowledge of how a workshop actually operates — not from a tutorial.  
+Demonstrates my ability to design real management systems with a robust backend and cross-platform UI.
 
 ---
 
-## 🛠️ Tools I use
+### 🔧 [MechTools](https://github.com/Mugen85/MechTools) — *Workshop tool app for mechanics*
+A **cross-platform (Windows + Android)** application built with **.NET MAUI**, born from a real need: having technical calculation and reference tools at hand while assembling machinery.
 
-- **Visual Studio** for developing C# and ASP.NET Core applications
-- **LINQPad** for practical exercises, logic tests, and quick prototyping
-- **Entity Framework Core** for efficient data management and entity relationships
-- **Razor Pages** for building lightweight and dynamic websites
-- **draw.io** for designing **flowcharts** and **logical diagrams** to plan and document application architectures
-- **Swagger (OpenAPI)** for interactive API documentation
-- **GitHub** for source control and collaboration
+I use it personally on the job, every day.  
+It's the project that best represents my philosophy: **simple software, built by someone who knows the problem from the inside**.
 
 ---
 
-## 📚 What I'm working on
-
-- **Building REST APIs** with **ASP.NET Core** and clean architectures (Clean Architecture, MVC)
-- **Data modeling** with **Entity Framework Core**, using advanced migrations and relationships
-- **Visual planning** of application flows through **clear and organized diagrams**
-- **Developing a personal website/blog** based on **ASP.NET Razor Pages**
-- Continuously deepening knowledge on:
-  - Solid Object-Oriented Programming (OOP)
-  - Architectural Design Patterns (Repository, Unit of Work, etc.)
-  - API Security (JWT Authentication)
-  - Technical documentation best practices
+### 💰 [WalletWise](https://github.com/Mugen85/wallet-wise-maui-app) — *Personal finance management*
+A **cross-platform (Windows + Android)** application built with **.NET MAUI**.  
+Modern UI, income/expense tracking, categories, transaction history. Consolidated skills in mobile UX, local data persistence, and MVVM architecture.
 
 ---
 
-A special focus is on the [`real-world`](https://github.com/Mugen85/CSharp-LINQPad-Training/tree/main/scripts/real-world) section of my GitHub project,  
-where I tackle **realistic and practical problems**, simulating technical challenges I might face in a professional environment.
+## 🧰 Tech Stack
 
-In this section, I demonstrate:
-- analysis and design skills applied to real scenarios
-- attention to naming, readability, and clean logic
-- full control of the flow: input, validation, conditions, and structured output
+- **Languages:** C#
+- **Frameworks:** .NET 8, ASP.NET Core, .NET MAUI, Blazor WebAssembly, Razor Pages
+- **Data:** Entity Framework Core, SQLite, SQL Server
+- **API:** REST, JWT Authentication, Swagger / OpenAPI
+- **Patterns:** Clean Architecture, Repository, Unit of Work, MVC, MVVM
+- **Tools:** Visual Studio, LINQPad, draw.io, GitHub
 
-📌 This is the section I recommend reviewing to truly assess my **applied technical skills**.
+---
+
+## 🎯 Goal
+
+Become a **software developer specialized in industrial and management applications**, bringing to every project direct knowledge of production processes, maintenance workflows, and real operational constraints.
+
+My added value isn't just the code: it's **understanding the domain** before even opening the IDE.
 
 ---
 
 ## 🔥 What I'm looking for
 
-- **Collaborations** with serious companies that value clean code, simplicity, and constant technical growth.
-- Opportunities to **grow professionally**, working on real projects that require architectural vision and quality focus.
-- Environments that promote **organized**, **responsible**, and **long-term-oriented** development.
+- Opportunities at companies developing **software for manufacturing, industrial, or management sectors**
+- Teams that value **clean code**, solid architecture, and continuous technical growth
+- Environments where **domain expertise** is considered an asset, not just a degree
 
 ---
 
 ## 📩 Contact me
 
-- 📧 Email: **[doppiam1@gmail.com](mailto:doppiam1@gmail.com)**
+- 📧 **[doppiam1@gmail.com](mailto:doppiam1@gmail.com)**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marco-morello-b43b2a108)
-- 🌐 [Sito personale](https://www.ilviaggiodelprogrammatore.com/)
+- 🌐 [Personal website](https://www.ilviaggiodelprogrammatore.com/)
 
 ---
 
-> 🛠️ *"Every great architect started by laying the first brick. Today, I’m building the foundations of my career, step by step, with simplicity and clarity."*
+> *"I spent 15 years understanding how a machine breaks down, why a production line stops, how to document a maintenance job.  
+> Now I write the software I wish I'd had when I was on the other side."*
