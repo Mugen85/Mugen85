@@ -3,10 +3,11 @@
 
 ---
 
-## 🏭 Chi sono davvero
+## 🏭 Chi sono
 
-Non sono uno sviluppatore che ha studiato informatica all'università e poi ha cercato un lavoro.  
-Sono un professionista con **oltre 15 anni di esperienza operativa in ambienti industriali complessi**, che ha scelto di costruire software perché conosce dall'interno i problemi che vale la pena risolvere.
+Ho un percorso un po' diverso dal solito: **oltre 15 anni di esperienza operativa in ambienti industriali**, e negli ultimi 4 anni ho iniziato a studiare seriamente sviluppo software in C# e .NET.
+
+Non vengo dall'università, ma dal campo. Questo mi ha dato una prospettiva diversa su cosa significa costruire software davvero utile.
 
 Ho lavorato come:
 - 🏭 **Conduttore di impianti** in un'azienda alimentare (5 anni) — gestione di linee di produzione, controllo qualità, manutenzione ordinaria
@@ -15,20 +16,19 @@ Ho lavorato come:
 - 🧺 **Manutentore guasti e manutenzioni straordinarie in lavanderia industriale ospedaliera** (1,5 anni) — impianti che gestiscono la biancheria di tutti gli ospedali del nord Italia
 - ⚙️ **Montatore meccanico per aziende siderurgiche** (attuale) — installazione e manutenzione di macchinari da catena di produzione in ambienti ad alta complessità
 
-Questa esperienza mi ha insegnato cosa significa **un sistema che non può fermarsi**, **una manutenzione che deve essere tracciata**, **un errore che costa migliaia di euro l'ora**.
+Lavorare in questi ambienti mi ha insegnato cosa significa **un sistema che non può fermarsi**, l'importanza di tracciare ogni intervento e quanto sia critico un errore su una linea produttiva.
 
-Negli ultimi **4 anni** ho affiancato a tutto questo lo studio intensivo di **C# e .NET**, con l'obiettivo di costruire software che risolva problemi reali nei settori in cui ho lavorato.
+Sto cercando di portare questa sensibilità anche nel software che scrivo.
 
 ---
 
 ## 🛠️ Progetti principali
 
 ### 🏍️ [MotoLogPro](https://github.com/Mugen85/MotoLogPro) — *Gestione officina moto* *(in sviluppo attivo)*
-Il progetto più ambizioso: un'applicazione **.NET MAUI + Web API** per la gestione completa di un'officina motociclistica. Clienti, interventi, storico veicoli, autenticazione **JWT**, database relazionale con **Entity Framework Core**.
+Il progetto su cui sto lavorando più intensamente: un'applicazione **.NET MAUI + Web API** per la gestione di un'officina motociclistica. Clienti, interventi, storico veicoli, autenticazione **JWT**, database relazionale con **Entity Framework Core**.
 
 Architettura client-server, separazione dei layer, documentazione API con **Swagger**.  
-Nasce dalla conoscenza diretta di come funziona davvero un'officina — non da un tutorial.  
-Dimostra la mia capacità di progettare sistemi gestionali reali con backend robusto e UI multipiattaforma.
+Nasce dalla curiosità di costruire qualcosa di concreto, ispirandosi a processi reali che conosco bene.
 
 ---
 
@@ -61,9 +61,7 @@ Progetto che ha consolidato le mie competenze su UX mobile, persistenza dei dati
 
 ## 🎯 Obiettivo
 
-Diventare un **software developer specializzato in applicazioni industriali e gestionali**, portando in ogni progetto la conoscenza diretta dei processi produttivi, della manutenzione e dei vincoli operativi reali.
-
-Il mio valore aggiunto non è solo il codice: è **capire il dominio** prima ancora di aprire l'IDE.
+Diventare un **software developer**, con un focus su applicazioni industriali e gestionali. Spero che la conoscenza diretta dei processi produttivi e della manutenzione possa essere utile anche in ambito software — non solo le competenze tecniche pure.
 
 ---
 
@@ -94,10 +92,11 @@ Il mio valore aggiunto non è solo il codice: è **capire il dominio** prima anc
 
 ---
 
-## 🏭 Who I really am
+## 🏭 About me
 
-I'm not a developer who studied computer science and then looked for a job.  
-I'm a professional with **over 15 years of hands-on experience in complex industrial environments**, who chose to build software because I know from the inside which problems are worth solving.
+My path is a bit unconventional: **over 15 years of hands-on experience in industrial environments**, and for the past 4 years I've been seriously studying software development in C# and .NET.
+
+I didn't come from university — I came from the field. That's given me a different perspective on what it means to build software that's actually useful.
 
 My background includes:
 - 🏭 **Production line operator** in a food manufacturing company (5 years)
@@ -106,20 +105,19 @@ My background includes:
 - 🧺 **Breakdown maintenance and extraordinary maintenance technician in an industrial hospital laundry** (1.5 years) — serving all hospitals across northern Italy
 - ⚙️ **Mechanical assembler for steelworks companies** (current) — installation and maintenance of production line machinery in high-complexity environments
 
-This experience taught me what it really means when **a system can't stop**, **maintenance must be traceable**, or **a single error costs thousands of euros per hour**.
+Working in these environments taught me what it really means when **a system can't stop**, why every maintenance job needs to be traceable, and how critical a mistake on a production line can be.
 
-Over the past **4 years**, I've combined all of this with intensive study of **C# and .NET**, with the goal of building software that solves real problems in the industries I've worked in.
+I'm trying to bring that same sensitivity to the software I write.
 
 ---
 
 ## 🛠️ Main Projects
 
 ### 🏍️ [MotoLogPro](https://github.com/Mugen85/MotoLogPro) — *Motorcycle workshop management* *(actively in development)*
-My most ambitious project: a **.NET MAUI + Web API** application for complete motorcycle workshop management. Customers, service orders, vehicle history, **JWT authentication**, relational database with **Entity Framework Core**.
+The project I'm working on most intensively: a **.NET MAUI + Web API** application for motorcycle workshop management. Customers, service orders, vehicle history, **JWT authentication**, relational database with **Entity Framework Core**.
 
 Client-server architecture, layer separation, API documentation with **Swagger**.  
-Built from real knowledge of how a workshop actually operates — not from a tutorial.  
-Demonstrates my ability to design real management systems with a robust backend and cross-platform UI.
+Built out of curiosity to create something concrete, inspired by real processes I know well.
 
 ---
 
@@ -150,9 +148,7 @@ Modern UI, income/expense tracking, categories, transaction history. Consolidate
 
 ## 🎯 Goal
 
-Become a **software developer specialized in industrial and management applications**, bringing to every project direct knowledge of production processes, maintenance workflows, and real operational constraints.
-
-My added value isn't just the code: it's **understanding the domain** before even opening the IDE.
+Become a **software developer**, with a focus on industrial and management applications. I hope that hands-on knowledge of production processes and maintenance can be an asset alongside technical skills — not a replacement for them.
 
 ---
 
