@@ -1,7 +1,28 @@
-# 👋 Ciao, sono Marco Morello
-*(English version below 🇬🇧)*
+<h1 align="center">👋 Ciao, sono Marco Morello</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marco-morello-b43b2a108/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marco%20Morello-blue?logo=linkedin"/>
+  </a>
+  <a href="http://www.ilviaggiodelprogrammatore.com">
+    <img src="https://img.shields.io/badge/Blog-ilviaggiodelprogrammatore.com-green"/>
+  </a>
+</p>
 
 ---
+
+*(English version below 🇬🇧)*
+
 
 ## 🏭 Chi sono
 
@@ -48,14 +69,35 @@ Progetto che ha consolidato le mie competenze su UX mobile, persistenza dei dati
 
 ---
 
-## 🧰 Stack tecnologico
+### ✅ [TaskManagerApi](https://github.com/Mugen85/TaskManagerApi) — *RESTful API con architettura pulita*
+API RESTful in **ASP.NET Core** con architettura modulare, **EF Core**, test automatici, **AutoMapper** e frontend **Blazor WebAssembly**.
+Progetto didattico focalizzato su clean architecture e best practice backend.
 
-- **Linguaggi:** C#
-- **Framework:** .NET 8, ASP.NET Core, .NET MAUI, Blazor WebAssembly, Razor Pages
-- **Dati:** Entity Framework Core, SQLite, SQL Server
-- **API:** REST, JWT Authentication, Swagger / OpenAPI
-- **Pattern:** Clean Architecture, Repository, Unit of Work, MVC, MVVM
-- **Strumenti:** Visual Studio, LINQPad, draw.io, GitHub
+---
+
+## 🧰 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor%20WASM-512BD4?logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugen85&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugen85&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
@@ -88,7 +130,26 @@ Diventare un **software developer**, con un focus su applicazioni industriali e 
 
 # 🇬🇧 English Version
 
-# 👋 Hi, I'm Marco Morello
+<h1 align="center">👋 Hi, I'm Marco Morello</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marco-morello-b43b2a108/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marco%20Morello-blue?logo=linkedin"/>
+  </a>
+  <a href="http://www.ilviaggiodelprogrammatore.com">
+    <img src="https://img.shields.io/badge/Blog-ilviaggiodelprogrammatore.com-green"/>
+  </a>
+</p>
 
 ---
 
@@ -135,14 +196,35 @@ Modern UI, income/expense tracking, categories, transaction history. Consolidate
 
 ---
 
+### ✅ [TaskManagerApi](https://github.com/Mugen85/TaskManagerApi) — *RESTful API with clean architecture*
+RESTful API built with **ASP.NET Core**, featuring modular architecture, **EF Core**, automated tests, **AutoMapper**, and a **Blazor WebAssembly** frontend.
+A learning project focused on clean architecture patterns and backend best practices.
+
+---
+
 ## 🧰 Tech Stack
 
-- **Languages:** C#
-- **Frameworks:** .NET 8, ASP.NET Core, .NET MAUI, Blazor WebAssembly, Razor Pages
-- **Data:** Entity Framework Core, SQLite, SQL Server
-- **API:** REST, JWT Authentication, Swagger / OpenAPI
-- **Patterns:** Clean Architecture, Repository, Unit of Work, MVC, MVVM
-- **Tools:** Visual Studio, LINQPad, draw.io, GitHub
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor%20WASM-512BD4?logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugen85&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugen85&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
