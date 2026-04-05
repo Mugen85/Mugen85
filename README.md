@@ -92,14 +92,6 @@ Progetto didattico focalizzato su clean architecture e best practice backend.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mugen85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
 ## 🎯 Obiettivo
 
 Diventare un **software developer**, con un focus su applicazioni industriali e gestionali. Spero che la conoscenza diretta dei processi produttivi e della manutenzione possa essere utile anche in ambito software — non solo le competenze tecniche pure.
@@ -215,14 +207,6 @@ A learning project focused on clean architecture patterns and backend best pract
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mugen85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 ---
 
