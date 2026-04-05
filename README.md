@@ -95,8 +95,8 @@ Progetto didattico focalizzato su clean architecture e best practice backend.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mugen85&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugen85&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugen85&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugen85&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
@@ -222,8 +222,8 @@ A learning project focused on clean architecture patterns and backend best pract
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mugen85&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugen85&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugen85&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugen85&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
