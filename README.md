@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%2010-512BD4?logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white"/>
